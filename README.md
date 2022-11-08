@@ -1,5 +1,6 @@
 # VisualOdometry
 * Simple openCV implementation of monocular visual odometry.
+* Works poorly with rolling shutter and low fps.
 * Works with live data as well. Toggle the bool at line 225.
 * Plug in webcam.
 * Possibly change the 1 to 0 in:
